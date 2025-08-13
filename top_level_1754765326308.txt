@@ -1,0 +1,7 @@
+analysis
+attached_assets
+auth
+exchanges
+news
+trading
+utils

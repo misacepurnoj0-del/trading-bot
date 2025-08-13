@@ -1,0 +1,2 @@
+2025-08-09 16:00:41 - SECURITY - WARNING - Security Event: LOGIN_SUCCESS | User: mihaail0 | IP: 77.45.131.120 | Details: Successful authentication
+2025-08-09 16:00:41 - __main__ - ERROR - Ошибка в главном приложении: No module named 'websockets'

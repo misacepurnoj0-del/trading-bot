@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password_hash": "89bf6050d53c54365dbaa9b4f9370d84:35d50592aa616400c3c23197ed1d2ab2771f682b3a5ffbe8b24b96de0e7791dd",
+    "role": "admin",
+    "created_at": "2025-08-09T16:35:31.273390",
+    "last_login": null,
+    "login_attempts": 0,
+    "locked_until": null
+  },
+  "trader": {
+    "password_hash": "5afcfa4498fabd07e5b5a02d5147bfdb:ac84e3ff5a8420f4849eadab5660119c78d3d8ade7be67bac957a518eb0ad551",
+    "role": "trader",
+    "created_at": "2025-08-09T16:35:31.273408",
+    "last_login": null,
+    "login_attempts": 0,
+    "locked_until": null
+  },
+  "mihaail0": {
+    "password_hash": "e3b529ca422f33a8afd9197b40c0419d:e7592d98f6af325c4a66d731c8bbd0a03bfb021c50232e32fa4f128be6b57869",
+    "role": "admin",
+    "created_at": "2025-08-09T16:35:31.273416",
+    "last_login": "2025-08-09T16:41:12.681831",
+    "login_attempts": 0,
+    "locked_until": null
+  }
+}
