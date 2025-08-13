@@ -1,0 +1,8 @@
+Simplify the trading bot interface for core functionality
+
+Streamline the user interface by removing navigation options for trading signals, settings, portfolio, market overview, and analytics, leaving only mode selection, bot control, and logout.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: f4cba47f-55aa-4072-ad3f-4d304b7210c8
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a2977187-61ad-4c78-b73a-a8592209fc03/f4cba47f-55aa-4072-ad3f-4d304b7210c8/mRY2XoD

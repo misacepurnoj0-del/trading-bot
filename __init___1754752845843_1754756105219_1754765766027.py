@@ -1,0 +1,2 @@
+# News parsing module initialization
+

@@ -1,0 +1,8 @@
+Set up cryptocurrency trading bot with secure login and demo/live modes
+
+Configure project for Python 3.11, add Streamlit interface, implement user authentication with password hashing and account lockout, integrate MEXC exchange API, and establish trading engine with multiple strategies and risk management features.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 14dc5fdc-6f56-4989-a017-4188234759f1
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ab21c42e-dde2-4e72-8759-00c73fa36073/14dc5fdc-6f56-4989-a017-4188234759f1/yTksFBJ
